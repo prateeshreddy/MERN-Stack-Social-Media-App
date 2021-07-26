@@ -1,9 +1,9 @@
 # MERN-Stack-Social-Media-App
 
 ### Front-End : React , Redux 
-### Back-End : Noje.js , Express.js , MongoDB 
+### Back-End : Node.js , Express.js , MongoDB 
 
-This Project is built using the above Full Stack MERN tools. This Application is a simple social media app that allows users to post interesting events that happened in their lives.
+This Project is built using the above Full Stack MERN tools. This Application is a social media app that allows users to post interesting events that happened in their lives.
 
 # Live Demo
 
